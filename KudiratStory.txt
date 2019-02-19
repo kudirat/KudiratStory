@@ -1,1 +1,2 @@
 Once upon a time there was a man named Andrew; Andrew Kuemmel to be exact. Andrew was a CS 400 professor, and boy did he love to teach. He was especially estatic about teaching data structures. Despite the fact that his students found data structures scary and intimidating and hard to implement sometimes. He still loved to teach about them anyways. Long live Binary Search Tree!
+	Some of his students were moved by his passion and started to practice inserting and deleating nodes in AVL and Red Black Trees everyday. 
