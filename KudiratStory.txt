@@ -2,3 +2,8 @@ Once upon a time there was a man named Andrew; Andrew Kuemmel to be exact. Andre
 	Some of his students were moved by his passion and started to practice inserting and deleating nodes in AVL and Red Black Trees everyday.
 	This was not easy to do. Sometimes students want to give up and drop the class. However,on every Monday, Wednesday, and Friday whenever they met Andrew Kuemmel, their professor, students made resolutions to be their best to study about data structure.   
         Finally, on a sunny sunday, all students turned in their p2 program which was about AVL tree. Andrew was glad about students' effort and decided to move on to the next concept, hash!
+	Of course the students were reluctant to learn this new data structure at first. But after seeing how happy Andrew was to teach Hash tables, they decided that learning about the new data structure wasn't as bad if they could see Andrew smile. 
+
+Fin!
+
+
